@@ -1,0 +1,10 @@
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\obj\Debug\OverRiver1.csprojResolveAssemblyReference.cache
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\obj\Debug\OverRiver1.Form1.resources
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\obj\Debug\OverRiver1.Properties.Resources.resources
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\obj\Debug\OverRiver1.csproj.GenerateResource.Cache
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\obj\Debug\OverRiver1.csproj.CoreCompileInputs.cache
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\bin\Debug\OverRiver1.exe.config
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\bin\Debug\OverRiver1.exe
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\bin\Debug\OverRiver1.pdb
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\obj\Debug\OverRiver1.exe
+C:\NanaApp\Project_OverRiver\OverRiver1\OverRiver1\obj\Debug\OverRiver1.pdb
