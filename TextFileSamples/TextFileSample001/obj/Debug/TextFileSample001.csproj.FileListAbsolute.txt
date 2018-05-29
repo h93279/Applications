@@ -1,0 +1,10 @@
+C:\NanaApp\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.csprojResolveAssemblyReference.cache
+C:\NanaApp\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.Form1.resources
+C:\NanaApp\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.Properties.Resources.resources
+C:\NanaApp\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.csproj.GenerateResource.Cache
+C:\NanaApp\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.csproj.CoreCompileInputs.cache
+C:\NanaApp\TextFileSamples\TextFileSample001\bin\Debug\TextFileSample001.exe.config
+C:\NanaApp\TextFileSamples\TextFileSample001\bin\Debug\TextFileSample001.exe
+C:\NanaApp\TextFileSamples\TextFileSample001\bin\Debug\TextFileSample001.pdb
+C:\NanaApp\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.exe
+C:\NanaApp\TextFileSamples\TextFileSample001\obj\Debug\TextFileSample001.pdb
