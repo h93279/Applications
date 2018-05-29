@@ -1,0 +1,7 @@
+C:\NanaApp\EqualitySamples\EqualitySample001\bin\Debug\EqualitySample001.exe.config
+C:\NanaApp\EqualitySamples\EqualitySample001\bin\Debug\EqualitySample001.exe
+C:\NanaApp\EqualitySamples\EqualitySample001\bin\Debug\EqualitySample001.pdb
+C:\NanaApp\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.csprojResolveAssemblyReference.cache
+C:\NanaApp\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.csproj.CoreCompileInputs.cache
+C:\NanaApp\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.exe
+C:\NanaApp\EqualitySamples\EqualitySample001\obj\Debug\EqualitySample001.pdb
