@@ -1,0 +1,7 @@
+C:\NanaApp\ConditionalOperatorSamples\AndOperatorSample\bin\Debug\AndOperatorSample.exe.config
+C:\NanaApp\ConditionalOperatorSamples\AndOperatorSample\bin\Debug\AndOperatorSample.exe
+C:\NanaApp\ConditionalOperatorSamples\AndOperatorSample\bin\Debug\AndOperatorSample.pdb
+C:\NanaApp\ConditionalOperatorSamples\AndOperatorSample\obj\Debug\AndOperatorSample.csprojResolveAssemblyReference.cache
+C:\NanaApp\ConditionalOperatorSamples\AndOperatorSample\obj\Debug\AndOperatorSample.csproj.CoreCompileInputs.cache
+C:\NanaApp\ConditionalOperatorSamples\AndOperatorSample\obj\Debug\AndOperatorSample.exe
+C:\NanaApp\ConditionalOperatorSamples\AndOperatorSample\obj\Debug\AndOperatorSample.pdb
