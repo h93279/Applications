@@ -22,8 +22,37 @@
       16:58
     </td>
   </tr>
+  <tr>
+    <td>
+      LifeNumber
+    </td>
+    <td>
+      2018/03/01
+    </td>
+    <td>
+      01:42
+    </td>
+  </tr>  
+  <tr>
+    <td>
+      NumberGuess
+    </td>
+    <td>
+      2018/02/28
+    </td>
+    <td>
+      14:36
+    </td>
+  </tr>
+  <tr>
+    <td>
+      TemConvert
+    </td>
+    <td>
+      2018/02/26
+    </td>
+    <td>
+       20:25
+    </td>
+  </tr>
 </table>
-
-　LifeNumber　_2018/03/01_01:42<br>
-  NumberGuess　_2018/02/28_14:36<br>
-　TemConvert　_2018/02/26_20:25<br>
