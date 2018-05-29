@@ -1,0 +1,10 @@
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\bin\Debug\NumberGuess.exe.config
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\bin\Debug\NumberGuess.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\bin\Debug\NumberGuess.pdb
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\obj\Debug\NumberGuess.csprojResolveAssemblyReference.cache
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\obj\Debug\NumberGuess.Form1.resources
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\obj\Debug\NumberGuess.Properties.Resources.resources
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\obj\Debug\NumberGuess.csproj.GenerateResource.Cache
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\obj\Debug\NumberGuess.csproj.CoreCompileInputs.cache
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\obj\Debug\NumberGuess.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\NumberGuess\obj\Debug\NumberGuess.pdb
