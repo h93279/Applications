@@ -1,0 +1,10 @@
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\bin\Debug\TemConvert.exe.config
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\bin\Debug\TemConvert.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\bin\Debug\TemConvert.pdb
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\obj\Debug\TemConvert.csprojResolveAssemblyReference.cache
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\obj\Debug\TemConvert.Form1.resources
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\obj\Debug\TemConvert.Properties.Resources.resources
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\obj\Debug\TemConvert.csproj.GenerateResource.Cache
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\obj\Debug\TemConvert.csproj.CoreCompileInputs.cache
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\obj\Debug\TemConvert.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\TemConvert\obj\Debug\TemConvert.pdb
