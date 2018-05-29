@@ -1,0 +1,9 @@
+C:\NanaApp\ExDLLSample\ExDLLSample\bin\Debug\ExDLLSample.exe.config
+C:\NanaApp\ExDLLSample\ExDLLSample\bin\Debug\ExDLLSample.exe
+C:\NanaApp\ExDLLSample\ExDLLSample\bin\Debug\ExDLLSample.pdb
+C:\NanaApp\ExDLLSample\ExDLLSample\bin\Debug\MyLibrary.dll
+C:\NanaApp\ExDLLSample\ExDLLSample\bin\Debug\MyLibrary.pdb
+C:\NanaApp\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.csprojResolveAssemblyReference.cache
+C:\NanaApp\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.csproj.CoreCompileInputs.cache
+C:\NanaApp\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.exe
+C:\NanaApp\ExDLLSample\ExDLLSample\obj\Debug\ExDLLSample.pdb
