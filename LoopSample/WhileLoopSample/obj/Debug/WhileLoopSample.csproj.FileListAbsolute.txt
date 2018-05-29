@@ -1,0 +1,6 @@
+C:\NanaApp\LoopSample\WhileLoopSample\bin\Debug\WhileLoopSample.exe.config
+C:\NanaApp\LoopSample\WhileLoopSample\bin\Debug\WhileLoopSample.exe
+C:\NanaApp\LoopSample\WhileLoopSample\bin\Debug\WhileLoopSample.pdb
+C:\NanaApp\LoopSample\WhileLoopSample\obj\Debug\WhileLoopSample.csproj.CoreCompileInputs.cache
+C:\NanaApp\LoopSample\WhileLoopSample\obj\Debug\WhileLoopSample.exe
+C:\NanaApp\LoopSample\WhileLoopSample\obj\Debug\WhileLoopSample.pdb

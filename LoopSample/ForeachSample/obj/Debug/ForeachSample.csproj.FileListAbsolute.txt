@@ -1,0 +1,6 @@
+C:\NanaApp\LoopSample\ForeachSample\bin\Debug\ForeachSample.exe.config
+C:\NanaApp\LoopSample\ForeachSample\bin\Debug\ForeachSample.exe
+C:\NanaApp\LoopSample\ForeachSample\bin\Debug\ForeachSample.pdb
+C:\NanaApp\LoopSample\ForeachSample\obj\Debug\ForeachSample.csproj.CoreCompileInputs.cache
+C:\NanaApp\LoopSample\ForeachSample\obj\Debug\ForeachSample.exe
+C:\NanaApp\LoopSample\ForeachSample\obj\Debug\ForeachSample.pdb
