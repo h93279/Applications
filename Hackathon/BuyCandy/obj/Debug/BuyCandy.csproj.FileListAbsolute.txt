@@ -1,0 +1,7 @@
+C:\NanaApp\00_Hackathon\Hackathon0206\BuyCandy\bin\Debug\BuyCandy.exe.config
+C:\NanaApp\00_Hackathon\Hackathon0206\BuyCandy\bin\Debug\BuyCandy.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\BuyCandy\bin\Debug\BuyCandy.pdb
+C:\NanaApp\00_Hackathon\Hackathon0206\BuyCandy\obj\Debug\BuyCandy.csproj.CoreCompileInputs.cache
+C:\NanaApp\00_Hackathon\Hackathon0206\BuyCandy\obj\Debug\BuyCandy.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\BuyCandy\obj\Debug\BuyCandy.pdb
+C:\NanaApp\00_Hackathon\Hackathon0206\BuyCandy\obj\Debug\BuyCandy.csprojResolveAssemblyReference.cache
