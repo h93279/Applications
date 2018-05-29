@@ -1,0 +1,7 @@
+C:\NanaApp\WinFormSolution\LinqSamples\LinqSample001\obj\Debug\LinqSample001.csprojResolveAssemblyReference.cache
+C:\NanaApp\WinFormSolution\LinqSamples\LinqSample001\obj\Debug\LinqSample001.csproj.CoreCompileInputs.cache
+C:\NanaApp\WinFormSolution\LinqSamples\LinqSample001\bin\Debug\LinqSample001.exe.config
+C:\NanaApp\WinFormSolution\LinqSamples\LinqSample001\bin\Debug\LinqSample001.exe
+C:\NanaApp\WinFormSolution\LinqSamples\LinqSample001\bin\Debug\LinqSample001.pdb
+C:\NanaApp\WinFormSolution\LinqSamples\LinqSample001\obj\Debug\LinqSample001.exe
+C:\NanaApp\WinFormSolution\LinqSamples\LinqSample001\obj\Debug\LinqSample001.pdb
