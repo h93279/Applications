@@ -1,0 +1,10 @@
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.csprojResolveAssemblyReference.cache
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.Form1.resources
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.Properties.Resources.resources
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.csproj.GenerateResource.Cache
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.csproj.CoreCompileInputs.cache
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\bin\Debug\DictionarySamples001.exe.config
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\bin\Debug\DictionarySamples001.exe
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\bin\Debug\DictionarySamples001.pdb
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.exe
+C:\NanaApp\AfterPractice\DictionarySamples\DictionarySamples001\obj\Debug\DictionarySamples001.pdb
