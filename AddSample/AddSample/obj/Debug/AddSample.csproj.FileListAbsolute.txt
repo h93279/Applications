@@ -1,0 +1,7 @@
+C:\NanaApp\AddSample\AddSample\bin\Debug\AddSample.exe.config
+C:\NanaApp\AddSample\AddSample\bin\Debug\AddSample.exe
+C:\NanaApp\AddSample\AddSample\bin\Debug\AddSample.pdb
+C:\NanaApp\AddSample\AddSample\obj\Debug\AddSample.csprojResolveAssemblyReference.cache
+C:\NanaApp\AddSample\AddSample\obj\Debug\AddSample.csproj.CoreCompileInputs.cache
+C:\NanaApp\AddSample\AddSample\obj\Debug\AddSample.exe
+C:\NanaApp\AddSample\AddSample\obj\Debug\AddSample.pdb
