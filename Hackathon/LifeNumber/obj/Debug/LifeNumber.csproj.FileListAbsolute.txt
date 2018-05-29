@@ -1,0 +1,10 @@
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\bin\Debug\LifeNumber.exe.config
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\bin\Debug\LifeNumber.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\bin\Debug\LifeNumber.pdb
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\obj\Debug\LifeNumber.Form1.resources
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\obj\Debug\LifeNumber.Properties.Resources.resources
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\obj\Debug\LifeNumber.csproj.GenerateResource.Cache
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\obj\Debug\LifeNumber.csproj.CoreCompileInputs.cache
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\obj\Debug\LifeNumber.exe
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\obj\Debug\LifeNumber.pdb
+C:\NanaApp\00_Hackathon\Hackathon0206\LifeNumber\obj\Debug\LifeNumber.csprojResolveAssemblyReference.cache
