@@ -1,0 +1,5 @@
+C:\NanaApp\DLLSamples\MyLibrary\bin\Debug\MyLibrary.dll
+C:\NanaApp\DLLSamples\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\NanaApp\DLLSamples\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\NanaApp\DLLSamples\MyLibrary\obj\Debug\MyLibrary.dll
+C:\NanaApp\DLLSamples\MyLibrary\obj\Debug\MyLibrary.pdb
