@@ -1,0 +1,7 @@
+C:\NanaApp\JumpSamples\BreakSample\bin\Debug\BreakSample.exe.config
+C:\NanaApp\JumpSamples\BreakSample\bin\Debug\BreakSample.exe
+C:\NanaApp\JumpSamples\BreakSample\bin\Debug\BreakSample.pdb
+C:\NanaApp\JumpSamples\BreakSample\obj\Debug\BreakSample.csproj.CoreCompileInputs.cache
+C:\NanaApp\JumpSamples\BreakSample\obj\Debug\BreakSample.exe
+C:\NanaApp\JumpSamples\BreakSample\obj\Debug\BreakSample.pdb
+C:\NanaApp\JumpSamples\BreakSample\obj\Debug\BreakSample.csprojResolveAssemblyReference.cache
